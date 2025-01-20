@@ -1,0 +1,43 @@
+# User-specific files
+.idea/
+.vs/
+.vscode/
+
+# User-specific files (Windows)
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]istro/
+[Dd]evelopment/
+[Dd]ebugFinal/
+[Dd]Release/
+bin/
+obj/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Core
+wwwroot/
+node_modules/
+
+# .NET Core
+project.json
+project.lock.json
+*.csproj.user
+*.suo
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Log files
+*.log
+
